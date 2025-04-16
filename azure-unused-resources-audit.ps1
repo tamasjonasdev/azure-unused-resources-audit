@@ -1,7 +1,3 @@
-# Az.Accounts
-# Az.Network
-# Az.Compute
-
 # 1. Login to Azure using Managed Identity
 Disable-AzContextAutosave -Scope Process
 Connect-AzAccount -Identity
